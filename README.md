@@ -21,7 +21,7 @@ Welcome to **GameX**, a vibrant and interactive gaming web page designed to show
 
 ## 🚀 Live Demo
 
-Check out the live version of **GameX** [here](link-to-live-demo).
+Check out the live version of **GameX** [here](https://aman17123.github.io/miniprojGAMEX/).
 
 ## 🛠 Installation and Setup
 
