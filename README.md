@@ -2,7 +2,7 @@
 
 Welcome to **GameX**, a vibrant and interactive gaming web page designed to showcase your passion for gaming! Built with modern web technologies, **GameX** delivers an engaging user experience and aesthetic appeal.
 
-## 🌟 Features
+# 🌟 Features
 
 - **Responsive Design**: Adapts seamlessly to different devices and screen sizes.
 - **Interactive UI**: Dynamic elements and smooth animations powered by JavaScript.
