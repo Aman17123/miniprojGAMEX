@@ -1,4 +1,4 @@
-# GameX 🎮
+0i# GameX 🎮
 
 Welcome to **GameX**, a vibrant and interactive gaming web page designed to showcase your passion for gaming! Built with modern web technologies, **GameX** delivers an engaging user experience and aesthetic appeal.
 
